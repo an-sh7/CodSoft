@@ -1,5 +1,5 @@
 # Task 1
-This is a Number Game created for CodSoft InternShip.
+This is a Number Game created for CodSoft Internship.
 # What we have to do?
 1. We have to Genrate a random number within the given range.
 2. Make user guess what number is genrated by the code.
