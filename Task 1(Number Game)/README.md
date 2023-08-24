@@ -7,4 +7,4 @@ This is a Number Game created for CodSoft Internship.
 4. We have to repeat the code until user guesses the correct number.
 
 # How we are going to do that?
-I will add this when i start writing the code.
+1. Create a class for genrating random numbers.
