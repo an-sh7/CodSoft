@@ -7,7 +7,7 @@ This is a Number Game created for CodSoft Internship.
 4. We have to repeat the code until user guesses the correct number or give limited attempts.
 # Optional
 1. Option for mutliple round.
-2. Option to allow user to play again
-3. Display Attempts and Score
+2. Option to allow user to play again.
+3. Display Attempts and Score.
 # What I want to add
-Users win rate
+1. Show Users win rate at end.
