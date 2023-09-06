@@ -3,12 +3,14 @@ This is the 3rd task of my [CodSoft](https://www.codsoft.in)
 
 # What we have to do
 
-[x] Create a class to represent the ATM machine. 
 
-[] Design the user interface for the ATM, including options such as withdrawing, depositing, and
+
+- [ ] Create a class to represent the ATM machine. 
+
+- [ ] Design the user interface for the ATM, including options such as withdrawing, depositing, and
 checking the balance.
 
-3. Implement methods for each option, such as withdraw(amount), deposit(amount), and
+Implement methods for each option, such as withdraw(amount), deposit(amount), and
 checkBalance().
 
 4. Create a class to represent the user's bank account, which stores the account balance.
