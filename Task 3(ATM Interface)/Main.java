@@ -82,9 +82,16 @@ class ATM{
 public class Main {
 
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
         BankAccount userAccount = new BankAccount(30000);
         ATM atm = new ATM(userAccount);
-        atm.run();
+        System.out.println("Enter Your PIN");
+        String pin = sc.nextLine();
+        if (pin == "1234") {
+            atm.run();
+        } else {
+            System.out.println("Wrong pin");
+        }
 
         //lets test the code
 
