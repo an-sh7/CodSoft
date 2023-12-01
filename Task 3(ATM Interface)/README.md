@@ -3,7 +3,7 @@ This is the 3rd task of my [CodSoft](https://www.codsoft.in)
 
 # What we have to do
 
-&check; Create a class to represent the ATM machine. 
+- [x] Create a class to represent the ATM machine. 
 
 - [x] Design the user interface for the ATM, including options such as withdrawing, depositing, and
 checking the balance.
